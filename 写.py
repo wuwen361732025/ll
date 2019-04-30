@@ -11,6 +11,10 @@ wb1["A5"]='=sum(A3:A4)'
 
 
 
+k =1
+
+
+
 
 
 wb.save('1.xlsx')
